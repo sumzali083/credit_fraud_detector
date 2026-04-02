@@ -1,0 +1,8 @@
+# ignore dataset files
+datasets/*.csv
+datasets/creditcard.csv
+# ignore virtual environment
+.venv/
+
+# ignore notebook checkpoints
+.ipynb_checkpoints/
